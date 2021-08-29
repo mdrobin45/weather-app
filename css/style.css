@@ -244,7 +244,10 @@
       width: 100%;
     }
     .heading, .ajax-section .city-temp{
-      font-size: 24px;
+      font-size: 26px;
+    }
+    .top-banner .form input{
+      font-size: 20px;
     }
     
     .ajax-section .cities {
