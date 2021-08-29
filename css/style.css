@@ -237,6 +237,15 @@
     body {
       padding: 15px;
     }
+    .top-banner .form{
+      flex-direction: column;
+    }
+    main{
+      width: 100%;
+    }
+    .heading, .ajax-section .city-temp{
+      font-size: 24px;
+    }
     
     .ajax-section .cities {
       grid-template-columns: repeat(1, 1fr);
