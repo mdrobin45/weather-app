@@ -244,7 +244,8 @@
       width: 100%;
     }
     .heading, .ajax-section .city-temp{
-      font-size: 26px;
+      font-size: 28px;
+      text-align: center;
     }
     .top-banner .form input{
       font-size: 20px;
